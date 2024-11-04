@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../article-adviser-bot/clients"
+		},
+		{
+			"path": "../article-adviser-bot/consumer"
+		},
+		{
+			"path": "../article-adviser-bot/events"
+		},
+		{
+			"path": "../article-adviser-bot/lib"
+		},
+		{
+			"path": "../article-adviser-bot/storage"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
